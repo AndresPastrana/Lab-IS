@@ -1,0 +1,5 @@
+-Clonar el repositorio para su pc
+-Editar los txt de nombre y año
+-Crear un nuevo repositorio privado
+-Invitarme como colaborador al proyecto nuevo que crearon privado
+-Mi cuenta en git para la invitacion es frank-dev99
